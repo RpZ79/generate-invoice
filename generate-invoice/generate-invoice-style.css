@@ -1,0 +1,26 @@
+
+/**
+ * generate invoice stylesheet plugin - front end style.
+ */
+
+.sub-wrap {
+    padding: 10px;
+}
+
+input#gi-pdt-name {
+    margin-left: 8%;
+}
+input#gi-pdt-qty {
+    margin-left: 13%;
+}
+input#gi-unit-price {
+    margin-left: 10%;
+}
+.ig-sub-info {
+    font-style: italic;
+    font-size: 14px;
+}
+.main-wrapper {
+    font-size: 16px;
+    color: #494747;
+}
